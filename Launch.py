@@ -3,8 +3,8 @@
 import Instamanager
 
 parameters = {
-	'ID' : 're.mi.to',
-	'password' : 'Remi2adeza!im',
+	'ID' : 'YOUR@ID',
+	'password' : 'YOUR_PWD',
 	'like_speed' : '1000',
 	'likes_per_tag' : '5',
 	'tags' : ['bike', 'caferacer'],
